@@ -1,0 +1,4 @@
+selenium
+lxml
+webdriver-manager
+
